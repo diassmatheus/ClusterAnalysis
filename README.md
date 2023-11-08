@@ -1,6 +1,6 @@
 # <p align="center"> <b> Curso: Clustering - extraindo padrões de dados</b> 
 
-####  📓 <a href="link do notebook.ipynb">Notebook</a> desenvolvido durante o curso
+####  📓 <a href="Clusterin Analysis - Cartão de Crédito.ipynb">Notebook</a> desenvolvido durante o curso
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/cluster-analysis">Alura</a> 
 ####  ⏰ Duração: 9h 
 ####  📜 Conteúdo:
